@@ -1,2 +1,1 @@
-# www.complianceascode.io
-Public ComplianceAsCode Webpage
+Source behind https://complianceascode.io
